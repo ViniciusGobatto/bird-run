@@ -20,3 +20,15 @@ The game features multiple environments, gameplay mechanics, collectible items a
 
 ## DEVELOPED BY: 
 Vinicius Gobatto
+
+## GAMEPLAY SCREENSHOTS
+
+![Screenshot 1](screenshots/screenshot%202.png)
+
+![Screenshot 3](screenshots/screenshot%203.png)
+
+![Screenshot 5](screenshots/screenshot%205.png)
+
+![Screenshot 7](screenshots/screenshot%207.png)
+
+![Screenshot 8](screenshots/screenshot%208.png)
