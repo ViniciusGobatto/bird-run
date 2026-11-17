@@ -24,18 +24,16 @@ Vinicius Gobatto
 ## GAMEPLAY SCREENSHOTS
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ViniciusGobatto/bird-run/main/screenshots/gameplay-01.png" width="24%">
-  <img src="https://raw.githubusercontent.com/ViniciusGobatto/bird-run/main/screenshots/gameplay-02.png" width="24%">
-  <img src="https://raw.githubusercontent.com/ViniciusGobatto/bird-run/main/screenshots/gameplay-03.png" width="24%">
-  <img src="https://raw.githubusercontent.com/ViniciusGobatto/bird-run/main/screenshots/gameplay-04.png" width="24%">
+  <img src="https://raw.githubusercontent.com/ViniciusGobatto/bird-run/main/screenshots/gameplay-01.png" width="12%">
+  <img src="https://raw.githubusercontent.com/ViniciusGobatto/bird-run/main/screenshots/gameplay-02.png" width="12%">
+  <img src="https://raw.githubusercontent.com/ViniciusGobatto/bird-run/main/screenshots/gameplay-03.png" width="12%">
+  <img src="https://raw.githubusercontent.com/ViniciusGobatto/bird-run/main/screenshots/gameplay-04.png" width="12%">
+  <img src="https://raw.githubusercontent.com/ViniciusGobatto/bird-run/main/screenshots/gameplay-05.png" width="12%">
+  <img src="https://raw.githubusercontent.com/ViniciusGobatto/bird-run/main/screenshots/gameplay-06.png" width="12%">
+  <img src="https://raw.githubusercontent.com/ViniciusGobatto/bird-run/main/screenshots/gameplay-07.png" width="12%">
+  <img src="https://raw.githubusercontent.com/ViniciusGobatto/bird-run/main/screenshots/gameplay-08.png" width="12%">
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ViniciusGobatto/bird-run/main/screenshots/gameplay-05.png" width="24%">
-  <img src="https://raw.githubusercontent.com/ViniciusGobatto/bird-run/main/screenshots/gameplay-06.png" width="24%">
-  <img src="https://raw.githubusercontent.com/ViniciusGobatto/bird-run/main/screenshots/gameplay-07.png" width="24%">
-  <img src="https://raw.githubusercontent.com/ViniciusGobatto/bird-run/main/screenshots/gameplay-08.png" width="24%">
-</p>
 
 
 
