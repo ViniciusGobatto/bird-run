@@ -37,3 +37,14 @@ Vinicius Gobatto
   <img src="https://raw.githubusercontent.com/ViniciusGobatto/bird-run/main/screenshots/gameplay-08.png" width="24%">
 </p>
 
+
+
+## GAMEPLAY VIDEO
+
+Check out Bird Run in action!
+
+[![Bird Run Gameplay](https://img.youtube.com/vi/MvycpzVI39c/hqdefault.jpg)](https://youtube.com/shorts/MvycpzVI39c)
+
+[Watch on YouTube](https://youtube.com/shorts/MvycpzVI39c)
+
+
