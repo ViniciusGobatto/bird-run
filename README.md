@@ -23,4 +23,4 @@ Vinicius Gobatto
 
 ## GAMEPLAY SCREENSHOTS
 
-![Bird Run Gameplay](https://raw.githubusercontent.com/ViniciusGobatto/bird-run/main/screenshots/screenshot%201.png)
+<img src="https://raw.githubusercontent.com/ViniciusGobatto/bird-run/main/screenshots/screenshot%201.png" width="600">
