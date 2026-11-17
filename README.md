@@ -45,11 +45,3 @@ Vinicius Gobatto
   <img src="https://raw.githubusercontent.com/ViniciusGobatto/bird-run/main/screenshots/gameplay-08.png" width="24%">
 </p>
 
-
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ViniciusGobatto/bird-run/main/screenshots/screenshot%205.png" width="24%">
-  <img src="https://raw.githubusercontent.com/ViniciusGobatto/bird-run/main/screenshots/screenshot%206.png" width="24%">
-  <img src="https://raw.githubusercontent.com/ViniciusGobatto/bird-run/main/screenshots/screenshot%207.png" width="24%">
-</p>
