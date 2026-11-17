@@ -25,11 +25,23 @@ Vinicius Gobatto
 
 ## GAMEPLAY SCREENSHOTS
 
+
+## GAMEPLAY SCREENSHOTS
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/ViniciusGobatto/bird-run/main/screenshots/screenshot%201.png" width="24%">
   <img src="https://raw.githubusercontent.com/ViniciusGobatto/bird-run/main/screenshots/screenshot%202.png" width="24%">
   <img src="https://raw.githubusercontent.com/ViniciusGobatto/bird-run/main/screenshots/screenshot%203.png" width="24%">
   <img src="https://raw.githubusercontent.com/ViniciusGobatto/bird-run/main/screenshots/screenshot%204.png" width="24%">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ViniciusGobatto/bird-run/main/screenshots/screenshot%205.png" width="24%">
+  <img src="https://raw.githubusercontent.com/ViniciusGobatto/bird-run/main/screenshots/screenshot%206.png" width="24%">
+  <img src="https://raw.githubusercontent.com/ViniciusGobatto/bird-run/main/screenshots/screenshot%207.png" width="24%">
+  <img src="https://raw.githubusercontent.com/ViniciusGobatto/bird-run/main/screenshots/screenshot%208.png" width="24%">
+</p>
+
 </p>
 
 <p align="center">
