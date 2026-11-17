@@ -23,14 +23,6 @@ Vinicius Gobatto
 
 ## GAMEPLAY SCREENSHOTS
 
-## GAMEPLAY SCREENSHOTS
-
-
-## GAMEPLAY SCREENSHOTS
-
-
-## GAMEPLAY SCREENSHOTS
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/ViniciusGobatto/bird-run/main/screenshots/gameplay-01.png" width="24%">
   <img src="https://raw.githubusercontent.com/ViniciusGobatto/bird-run/main/screenshots/gameplay-02.png" width="24%">
