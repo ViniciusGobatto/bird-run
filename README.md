@@ -4,6 +4,10 @@ Bird Run is an endless runner game developed using Godot Engine and GDScript.
 
 Take control of a little bird, collect seeds, avoid obstacles and explore different environments as the difficulty increases.
 
+## GOOGLE PLAY LINK
+
+*Just waiting for the initial time from google play to release it to the public. Link can be provided uppon request
+
 ## GAME OVERVIEW
 
 The game features multiple environments, gameplay mechanics, collectible items and progression systems.
