@@ -6,7 +6,9 @@ Take control of a little bird, collect seeds, avoid obstacles and explore differ
 
 ## GOOGLE PLAY LINK
 
-*Just waiting for the initial time from google play to release it to the public. Link can be provided uppon request
+Currently awaiting Google Play's initial review and public release. The download link will be available here soon.
+
+For early access or further information, feel free to contact me.
 
 ## GAME OVERVIEW
 
